@@ -1,2 +1,2 @@
 # LocationTracker
-A chrome extension that tracks the user location
+A chrome extension that tracks the user's location
